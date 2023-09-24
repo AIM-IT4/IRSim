@@ -1,4 +1,4 @@
-from .vasicek import simulate_vasicek as vasicek
+from IRSim.vasicek import simulate_vasicek as vasicek
 from .cir import simulate_cir as cir
 from .hull_white_one_factor import simulate_hull_white_one_factor as hullwhiteonefactor
 from .hull_white_two_factor import simulate_hull_white_two_factor as hullwhitetwofactor
